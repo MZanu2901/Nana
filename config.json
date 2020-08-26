@@ -1,7 +1,7 @@
 {
   "TOKEN": "BOT_TOKEN_HERE",
-  "PREFIX": "nhen",
+  "PREFIX": "nh",
   "COLOR": "#DD474D",
-  "OWNERS": ["YOUR_USER_ID"],
+  "OWNERS": ["Daybit Sem Void#2579"],
   "LANG": ["english", "chinese", "japanese"]
 }
